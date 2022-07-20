@@ -1,5 +1,5 @@
 ### myxlf
-Tools untuk crack akun fb dan di khususkan ke akun Ff🙏
+Tools untuk crack akun fb dan di khususkan ke akun Game
 ### Requirement
 aplikasi Termux Versi Terbaru download [disini](https://f-droid.org/repo/com.termux_118.apk)
 ### Intallasi Dan Jalankan
